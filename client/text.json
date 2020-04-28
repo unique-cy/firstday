@@ -1,0 +1,1913 @@
+{
+  "Lover": [{
+      "id": "1",
+      "img": "/img/product1.jpg",
+      "name": "一往情深",
+      "Science": "精品玫瑰礼盒:19枝红玫瑰，勿忘我0.1扎",
+      "ScienceAll": "高档礼盒装鲜花:19枝红玫瑰，勿忘我0.1扎",
+      "flowerLanguage": "你的轻柔像阵微风，让我从容不迫，想让你知道，我对你始终一往情深。",
+      "Exp": "",
+      "promo": "经典爆款，年销售冠军！",
+      "newPrice": "249",
+      "oldPrice": "315",
+      "num": "12.0万",
+      "thisNum": 1,
+      "provide": false,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/ywqs1.jpg",
+        "/img/details/ywqs2.jpg",
+        "/img/details/ywqs3.jpg",
+        "/img/details/ywqs4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/ywqs6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ywqs16.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "img": "/img/product2.jpg",
+      "name": "一心一意",
+      "Science": "玫瑰11枝，粉色勿忘我0.3扎",
+      "ScienceAll": "红玫瑰11枝，粉色(或者紫色）勿忘我0.3扎，栀子叶8枝",
+      "flowerLanguage": "11枝玫瑰，寓意一心一意！<br/>有情之人，天天是节。一句寒暖，一线相喧；一句叮咛，一笺相传；一份相思，一心相盼；一份爱意，一生相恋。",
+      "Exp": "",
+      "promo": "经典款式 精选爆款",
+      "newPrice": "139",
+      "oldPrice": "189",
+      "num": "11.7万",
+      "thisNum": 1,
+      "provide": false,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/yxyy1.jpg",
+        "/img/details/yxyy2.jpg",
+        "/img/details/yxyy3.jpg",
+        "/img/details/yxyy4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/yxyy6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy16.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy17.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/yxyy18.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "img": "/img/product3.jpg",
+      "name": "忘情巴黎",
+      "Science": "33枝红玫瑰",
+      "ScienceAll": "33枝红玫瑰，石竹梅20枝",
+      "flowerLanguage": "只想和你忘掉一切烦恼，尽情沉醉在最浪漫的气氛中。",
+      "Exp": "",
+      "promo": "浪漫唯美 女神挚爱",
+      "newPrice": "298",
+      "oldPrice": "382",
+      "num": "6.7万",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/wqbl1.jpg",
+        "/img/details/wqbl2.jpg",
+        "/img/details/wqbl3.jpg",
+        "/img/details/wqbl4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/wqbl6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wqbl7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wqbl8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wqbl9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wqbl10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wqbl11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wqbl12.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "img": "/img/product4.jpg",
+      "name": "韩式系列/亲爱的你",
+      "Science": "粉佳人玫瑰16枝、白和粉色洋桔梗各5枝、尤加利10枝、浅紫色小菊3枝、深粉色绣球1枝",
+      "ScienceAll": "韩式花束系列：粉佳人玫瑰16枝、3头或以上白色洋桔梗5枝、3头或以上粉色洋桔梗5枝、尤加利10枝、浅紫色小菊3枝、深粉色绣球1枝",
+      "flowerLanguage": "我喜欢的样子你都有",
+      "Exp": "",
+      "promo": "花艺师打造 韩式花束系列",
+      "newPrice": "368",
+      "oldPrice": "469",
+      "num": "734",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/hsxlqadn1.jpg",
+        "/img/details/hsxlqadn2.jpg",
+        "/img/details/hsxlqadn3.jpg",
+        "/img/details/hsxlqadn4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/hsxlqadn6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlqadn14.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "img": "/img/product5.jpg",
+      "name": "不变的承诺",
+      "Science": "99枝红玫瑰",
+      "ScienceAll": "99枝红玫瑰",
+      "flowerLanguage": "下雨的时候，给她撑一把雨伞；寒冷的时候，给她一个温暖的臂弯；天黑了，永远有一盏灯为她点亮；晨起时，给她一缕温暖的阳光。爱她，就送她一束99枝的玫瑰花！",
+      "Exp": "",
+      "promo": "经典99枝，鼎力推荐！",
+      "newPrice": "520",
+      "oldPrice": "869",
+      "num": "6.3万",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/bbdcn1.jpg",
+        "/img/details/bbdcn2.jpg",
+        "/img/details/bbdcn3.jpg",
+        "/img/details/bbdcn4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/bbdcn6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/bbdcn16.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "img": "/img/product6.jpg",
+      "name": "恋恋情深",
+      "Science": "11枝香槟玫瑰，白色多头百合2枝",
+      "ScienceAll": "11枝香槟玫瑰，多头白百合2枝，栀子叶8枝",
+      "flowerLanguage": "喜欢像是一阵风，而爱你是细水长流",
+      "Exp": "",
+      "promo": "经典款式 简约设计",
+      "newPrice": "198",
+      "oldPrice": "255",
+      "num": "7.5万",
+      "thisNum": 1,
+      "provide": false,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/llsq1.jpg",
+        "/img/details/llsq2.jpg",
+        "/img/details/llsq3.jpg",
+        "/img/details/llsq4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/llsq6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq16.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq17.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsq18.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "img": "/img/product7.jpg",
+      "name": "韩式系列/初心不负",
+      "Science": " 韩式花束系列花艺师全新打造，卡罗拉玫瑰11枝、白底粉边洋桔梗5枝、大叶尤加利10枝",
+      "ScienceAll": "韩式花束系列：卡罗拉玫瑰11枝、3头或以上白底粉边洋桔梗5枝（如白底粉边桔梗缺货，可用白色桔梗代替）、大叶尤加利10枝、4枝红豆",
+      "flowerLanguage": "以热烈主题的红玫瑰及红色包装，搭配象征白色无暇的桔梗为设计主题，打造全新韩式系列。将这一簇美景包裹在一片雪白中，一条满载希望的丝带扎紧了无限的惊喜，只为将全世界的风景奉献于你怀里",
+      "Exp": "",
+      "promo": "花艺师打造 韩式花束系列",
+      "newPrice": "229",
+      "oldPrice": "298",
+      "num": "6.7万",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/hsxlcsbf1.jpg",
+        "/img/details/hsxlcsbf2.jpg",
+        "/img/details/hsxlcsbf3.jpg",
+        "/img/details/hsxlcsbf4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/hsxlcsbf6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlcsbf15.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "img": "/img/product8.jpg",
+      "name": "爱在心头",
+      "Science": "玫瑰50枝：戴安娜粉玫瑰19枝，红玫瑰31枝",
+      "ScienceAll": "玫瑰共50枝：戴安娜粉玫瑰19枝，红玫瑰31枝",
+      "flowerLanguage": "“此情无计可消除，才下眉头，却上心头。”李清照《一剪梅》",
+      "Exp": "",
+      "promo": "双色搭配 赏心悦目",
+      "newPrice": "398",
+      "oldPrice": "479",
+      "num": "2.0万",
+      "thisNum": 1,
+      "provide": false,
+      "reduceFlag": false,
+      "dataitem": "Lover",
+      "bannerimg": [
+        "/img/details/azxt1.jpg",
+        "/img/details/azxt2.jpg",
+        "/img/details/azxt3.jpg",
+        "/img/details/azxt4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/azxt6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/azxt7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/azxt8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/azxt9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/azxt10.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    }
+  ],
+  "Elder": [{
+      "id": "9",
+      "img": "/img/product9.jpg",
+      "name": "母爱",
+      "Science": "紫红色康乃馨9枝，粉色多头康乃馨10枝",
+      "ScienceAll": "紫红色康乃馨9枝，粉色多头康乃馨10枝",
+      "flowerLanguage": "没你疼爱我怎么生活，没你抚养我怎能长大，你给了我青春的年华，自己却满头白发，不负青春年华，是对你最好的报答！",
+      "Exp": "",
+      "promo": "经典爆款，年销售冠军！",
+      "newPrice": "162",
+      "oldPrice": "228",
+      "num": "1.6万",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Elder",
+      "bannerimg": [
+        "/img/details/ma1.jpg",
+        "/img/details/ma2.jpg",
+        "/img/details/ma3.jpg",
+        "/img/details/ma4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/ma6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ma7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ma8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ma9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ma10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ma11.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "img": "/img/product10.jpg",
+      "name": "留住好时光",
+      "Science": "粉绣球1枝，粉雪山玫瑰6枝",
+      "ScienceAll": "粉绣球1枝，粉雪山玫瑰6枝，粉桔梗0.3扎，栀子叶0.5扎",
+      "flowerLanguage": "让每点阳光，洒于你脸庞；令你的微笑，比花更盛放！",
+      "Exp": "",
+      "promo": "精选昆明A级花材",
+      "newPrice": "239",
+      "oldPrice": "306",
+      "num": "9705",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Elder",
+      "bannerimg": [
+        "/img/details/lzhsg1.jpg",
+        "/img/details/lzhsg2.jpg",
+        "/img/details/lzhsg3.jpg",
+        "/img/details/lzhsg4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/lzhsg6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lzhsg7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lzhsg8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lzhsg9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lzhsg10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lzhsg11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lzhsg12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lzhsg13.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "img": "/img/product11.jpg",
+      "name": "幸福绽放",
+      "Science": "粉色康乃馨19枝",
+      "ScienceAll": "粉色康乃馨19枝，石竹梅10枝、紫色勿忘我0.2扎、栀子叶10枝",
+      "flowerLanguage": "携带一束鲜花来到您的身旁，花儿浓缩了我对您的祝福，您在我的心里永远美丽、漂亮！",
+      "Exp": "",
+      "promo": "温暖之选 亮丽花色",
+      "newPrice": "172",
+      "oldPrice": "215",
+      "num": "1.3万",
+      "thisNum": 1,
+      "provide": false,
+      "reduceFlag": false,
+      "dataitem": "Elder",
+      "bannerimg": [
+        "/img/details/xfzf1.jpg",
+        "/img/details/xfzf2.jpg",
+        "/img/details/xfzf3.jpg",
+        "/img/details/xfzf4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/xfzf6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfzf7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfzf8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfzf9.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "img": "/img/product12.jpg",
+      "name": "韩式系列/温柔以待",
+      "Science": "粉色康乃馨13枝，戴安娜玫瑰5枝、3头或以上粉色洋桔梗5枝、浅紫紫罗兰5枝、尤加利10枝",
+      "ScienceAll": "韩式花束系列：粉色康乃馨13枝，戴安娜玫瑰5枝、3头或以上粉色洋桔梗5枝、浅紫紫罗兰5枝、尤加利10枝",
+      "flowerLanguage": "温柔的人，都是人间宝藏",
+      "Exp": "",
+      "promo": "韩式系列 母亲节新品",
+      "newPrice": "239",
+      "oldPrice": "299",
+      "num": "167",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Elder",
+      "bannerimg": [
+        "/img/details/hsxlwryd1.jpg",
+        "/img/details/hsxlwryd2.jpg",
+        "/img/details/hsxlwryd3.jpg",
+        "/img/details/hsxlwryd4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/hsxlwryd6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hsxlwryd14.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "img": "/img/product13.jpg",
+      "name": "恩情无限",
+      "Science": "粉色康乃馨11枝，百合2枝",
+      "ScienceAll": "粉色康乃馨11枝，粉色多头香水百合2枝，栀子叶10枝",
+      "flowerLanguage": "我想在阳光下满身花香，我想在阳光下沐浴清新，我想在清新里感受每一天的好时光..",
+      "Exp": "",
+      "promo": "精选花材 精心设计",
+      "newPrice": "178",
+      "oldPrice": "232",
+      "num": "1.3万",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Elder",
+      "bannerimg": [
+        "/img/details/eqwx1.jpg",
+        "/img/details/eqwx2.jpg",
+        "/img/details/eqwx3.jpg",
+        "/img/details/eqwx4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/eqwx6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/eqwx7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/eqwx8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/eqwx9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/eqwx10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/eqwx10.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "img": "/img/product14.jpg",
+      "name": "幸福万年长",
+      "Science": "红色康乃馨66枝，白边紫色多头康乃馨15枝，栀子叶2扎",
+      "ScienceAll": "红色康乃馨66枝，搭配白边紫色多头康乃馨15枝，栀子叶2扎",
+      "flowerLanguage": "家是什么?有人说家是倦鸟归来的巢，家是小船避风的港......有爱有家，幸福万年长。",
+      "Exp": "",
+      "promo": "温暖花束 幸福万年长",
+      "newPrice": "338",
+      "oldPrice": "486",
+      "num": "3584件",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Elder",
+      "bannerimg": [
+        "/img/details/xfwnc1.jpg",
+        "/img/details/xfwnc2.jpg",
+        "/img/details/xfwnc3.jpg",
+        "/img/details/xfwnc4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/xfwnc6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfwnc7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfwnc8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfwnc9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfwnc10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xfwnc10.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    }
+  ],
+  "Imflower": [{
+      "id": "15",
+      "img": "/img/product15.jpg",
+      "label": "畅销",
+      "name": "我如此爱你",
+      "Science": "口红款999-专柜正品Dior#999口红＋进口永生玫瑰礼盒",
+      "ScienceAll": "厄瓜多尔进口永生红玫1朵(直径6-7CM)、红色小玫瑰2朵、进口红色永生玫瑰1朵、红色小果子2颗、进口红绣球适量、进口松树枝适量；搭配专柜正品畅销经典款迪奥Dior999口红。高档蓝色定制多功能礼盒（永生花盒+升级款带化妆镜+带首饰盒功能）。",
+      "promo": "Dior、YSL口红可选",
+      "provide": true,
+      "Exp": "特别提示：口红属于膏状物体，不支持空运，由顺丰陆运寄出，时效一般比空运晚一天（广东省内除外），敬请留意！永生花搭配畅销经典款迪奥Dior#999口红（专柜正品，价值300元），专为她准备的惊喜！",
+      "newPrice": "598",
+      "oldPrice": "698",
+      "num": "6785",
+      "thisNum": 1,
+      "reduceFlag": false,
+      "dataitem": "Imflower",
+      "bannerimg": [
+        "/img/details/wrcan1.jpg",
+        "/img/details/wrcan2.jpg",
+        "/img/details/wrcan3.jpg",
+        "/img/details/wrcan4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/wrcan5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan16.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan17.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan18.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan19.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan20.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan21.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/wrcan22.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "img": "/img/product16.jpg",
+      "label": "创意新品",
+      "name": "一鹿(路)有你永生花小夜灯",
+      "Science": "永生花礼盒",
+      "ScienceAll": "哥伦比亚进口玫瑰、绣球，苔藓，满天星等、小鹿公仔，经花艺师手工精制而成，再搭配温馨小夜灯，适合生日、周年纪念日等特别的日子送女朋友、妻子之优选！",
+      "Exp": "",
+      "promo": "创意新品 永生花礼盒",
+      "newPrice": "298",
+      "oldPrice": "398",
+      "num": "429",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Imflower",
+      "bannerimg": [
+        "/img/details/ylyn1.jpg",
+        "/img/details/ylyn2.jpg",
+        "/img/details/ylyn3.jpg",
+        "/img/details/ylyn4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/ylyn5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ylyn14.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "img": "/img/product17.jpg",
+      "label": "热销单品",
+      "name": "花好月圆永生花台灯",
+      "Science": "精选进口奥斯汀永生玫瑰台灯",
+      "ScienceAll": "花好月圆永生花创意台灯，永生花材：多色永生玫瑰、奥斯汀玫瑰、富贵叶、木绣球、黄金球、尤加利果、松果、八角花、虞美人、情人草",
+      "promo": "上市即卖断货的爆款重上架",
+      "Exp": "提示：全新升级款可调亮度",
+      "newPrice": "298",
+      "oldPrice": "398",
+      "num": "1062",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Imflower",
+      "bannerimg": [
+        "/img/details/hhyyyshtd1.jpg",
+        "/img/details/hhyyyshtd2.jpg",
+        "/img/details/hhyyyshtd3.jpg",
+        "/img/details/hhyyyshtd4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/hhyyyshtd5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd16.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd17.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd18.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd19.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/hhyyyshtd20.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "img": "/img/product18.jpg",
+      "label": "爱的承诺",
+      "name": "一生一世",
+      "Science": "厄瓜多尔进口永生红玫1朵，双色永生绣球",
+      "ScienceAll": "厄瓜多尔进口永生红玫1朵(直径6-7CM)，搭配双色永生绣球，白色小星花（所有材料均为永生花花材，可存放2～3年）",
+      "Exp": "",
+      "promo": "爆款特惠！",
+      "newPrice": "198",
+      "oldPrice": "259",
+      "num": "1.2万",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Imflower",
+      "bannerimg": [
+        "/img/details/ysys1.jpg",
+        "/img/details/ysys2.jpg",
+        "/img/details/ysys3.jpg",
+        "/img/details/ysys4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/ysys5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/ysys14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    }
+  ],
+  "cake": [{
+      "id": "19",
+      "img": "/img/product19.jpg",
+      "label": "",
+      "name": "蓝色星球(6寸)",
+      "Science": "",
+      "ScienceAll": "巧克力、鸡蛋、稀奶油、白砂糖、杏仁粉、牛奶、低筋小麦粉、奶油干酪、黄油、蜂蜜、咖啡粉",
+      "promo": "星空造型",
+      "Exp": "至少提前1天订购或者订购前咨询客服",
+      "newPrice": "298",
+      "oldPrice": "398",
+      "num": "122",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "cake",
+      "bannerimg": [
+        "/img/details/lsxq1.jpg",
+        "/img/details/lsxq2.jpg",
+        "/img/details/lsxq3.jpg",
+        "/img/details/lsxq4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/lsxq5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/lsxq15.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "img": "/img/product20.jpg",
+      "label": "",
+      "name": "（新款）榴芒双拼(约2磅)",
+      "Science": "双拼蛋糕 ",
+      "ScienceAll": "榴莲、奶油、巧克力、芒果、糖、面粉、黄油、大豆油",
+      "promo": "",
+      "Exp": "深圳大鹏新区暂时不配送",
+      "newPrice": "218",
+      "oldPrice": "276",
+      "num": "1862",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "cake",
+      "bannerimg": [
+        "/img/details/llsp1.jpg",
+        "/img/details/llsp2.jpg",
+        "/img/details/llsp3.jpg",
+        "/img/details/llsp4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/llsp5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsp6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsp7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsp8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsp9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/llsp10.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "img": "/img/product21.jpg",
+      "label": "",
+      "name": "蝶恋花景(8寸)",
+      "Science": "元祖鲜奶蛋糕，布丁加水果夹层",
+      "ScienceAll": "原味蛋胚、布丁夹层、什锦水果夹层等",
+      "promo": "元祖授权销售",
+      "Exp": "一次性蛋糕用具1套",
+      "newPrice": "258",
+      "oldPrice": "358",
+      "num": "2562",
+      "thisNum": 1,
+      "provide": false,
+      "reduceFlag": false,
+      "dataitem": "cake",
+      "bannerimg": [
+        "/img/details/dlhj1.jpg",
+        "/img/details/dlhj2.jpg",
+        "/img/details/dlhj3.jpg",
+        "/img/details/dlhj4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/dlhj5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dlhj6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dlhj7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dlhj8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dlhj9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dlhj10.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "img": "/img/product22.jpg",
+      "label": "",
+      "name": "鲜果缤纷",
+      "Science": "2磅(8寸)水果蛋糕 ",
+      "ScienceAll": "2磅(8寸)水果蛋糕：圆形欧式水果蛋糕，各色水果饱满装饰",
+      "Exp": "",
+      "promo": "",
+      "newPrice": "179",
+      "oldPrice": "209",
+      "num": "3548",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "cake",
+      "bannerimg": [
+        "/img/details/xgbf1.jpg",
+        "/img/details/xgbf2.jpg",
+        "/img/details/xgbf3.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/xgbf4.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgbf5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgbf6.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    }
+  ],
+  "gift": [{
+      "id": "23",
+      "img": "/img/product23.jpg",
+      "label": "礼盒装畅销款",
+      "name": "天使之恋",
+      "Science": "高档精品化妆镜,天然深海母贝，彩白色的奥地利水钻",
+      "ScienceAll": "颜色： 银色<br/>尺寸： 64mm<br/>重量： 110g左右<br/>材质： 出口合金镜框+天然深海母贝+进口奥地利水晶钻<br/>包装： 高档双层PU礼盒",
+      "promo": "水钻与贝壳镶嵌 高档礼盒",
+      "Exp": "本商品升级为高档双层PU礼盒（下层为抽屉盒，可作为首饰盒用途），彰显精致品质！",
+      "newPrice": "159",
+      "oldPrice": "199",
+      "num": "1.8万",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "gift",
+      "bannerimg": [
+        "/img/details/xgtszl1.jpg",
+        "/img/details/xgtszl2.jpg",
+        "/img/details/xgtszl3.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/xgtszl4.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xgtszl14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "img": "/img/product24.jpg",
+      "label": "火热畅销款",
+      "name": "星期耳钉礼盒",
+      "Science": "s925银个性耳钉",
+      "ScienceAll": "品牌: T400<br/>金属材质: 925银<br/>镶嵌材质: 纯银镶嵌宝石<br/>T400耳钉女纯银一星期耳钉礼盒简约气质韩国个性耳环星期组合套装",
+      "Exp": "",
+      "promo": "星期耳钉，每天都不同",
+      "newPrice": "198",
+      "oldPrice": "298",
+      "num": "1576",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "gift",
+      "bannerimg": [
+        "/img/details/xqedlh1.jpg",
+        "/img/details/xqedlh2.jpg",
+        "/img/details/xqedlh3.jpg",
+        "/img/details/xqedlh4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/xqedlh5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh16.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh17.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh18.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh19.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh20.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/xqedlh21.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "img": "/img/product25.jpg",
+      "label": "新品",
+      "name": "迪奥口红2支(#520+#999)+迪奥花漾淡香水50ml",
+      "Science": "Dior口红香水礼盒套装",
+      "ScienceAll": "迪奥口红2支（经典组合套装，寓意我爱你久久久：dior#520口红1支、dior#999口红1支）+迪奥花漾淡香水50ml。由专柜使用DIOR专属礼盒及带Dior LOGO丝带精心包装而成。并在礼盒内洒了Dior神秘香氛，迪奥艺术礼盒精心呈现，每个细节都彰显迪奥珍礼美学！",
+      "promo": "星期耳钉，每天都不同",
+      "Exp": "特别提示：本产品含膏状物体跟液体，不支持空运，由顺丰陆运寄出！",
+      "newPrice": "198",
+      "oldPrice": "298",
+      "num": "1576",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "gift",
+      "bannerimg": [
+        "/img/details/dakh1.jpg",
+        "/img/details/dakh2.jpg",
+        "/img/details/dakh3.jpg",
+        "/img/details/dakh4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/dakh5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh15.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh16.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh17.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh18.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh19.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh20.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/dakh21.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "img": "/img/product26.jpg",
+      "label": "专属你的礼物",
+      "name": "woody手工气泡玻璃小鹿灯（海天蓝）",
+      "Science": "",
+      "ScienceAll": "品牌：woodylife<br/>灯外形：瓶子形状<br/>灯罩材质：玻璃<br/>灯座材质：木头<br/>开关类型 ：开关线<br/>电压：5（V）<br/>风格：北欧风<br/>产地：武汉<br/>外形尺寸 ：17cm*14cm*10cm<br/>适用送礼场合：开业典礼,员工福利,周年庆典,广告促销,节日,生日,商务馈赠<br/>颜色：海天蓝",
+      "Exp": "",
+      "promo": "每个细节都带着温度",
+      "newPrice": "168",
+      "oldPrice": "268",
+      "num": "156",
+      "thisNum": 1,
+      "provide": false,
+      "reduceFlag": false,
+      "dataitem": "gift",
+      "bannerimg": [
+        "/img/details/sgqpbl1.jpg",
+        "/img/details/sgqpbl2.jpg",
+        "/img/details/sgqpbl3.jpg",
+        "/img/details/sgqpbl4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/sgqpbl5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgqpbl6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgqpbl7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgqpbl8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgqpbl9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgqpbl10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgqpbl11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    }
+  ],
+  "Chocolates": [{
+      "id": "27",
+      "img": "/img/product27.jpg",
+      "label": "",
+      "name": "光板金樽礼遇多口味夹心巧克力礼盒装25颗",
+      "Science": "夹心巧克力25颗",
+      "ScienceAll": "品牌: CHOLO/巧罗<br/>保质期：9个月<br/>是否含有代可可脂: 是<br/>口味：夹心巧克力",
+      "promo": "满足你的味蕾",
+      "Exp": "巧克力产品不支持7天无理由退货！宁夏、海南、甘肃、青海、新疆、西藏地区暂不配送",
+      "newPrice": "99",
+      "oldPrice": "199",
+      "num": "5062",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Chocolates",
+      "bannerimg": [
+        "/img/details/gbjzly1.jpg",
+        "/img/details/gbjzly2.jpg",
+        "/img/details/gbjzly3.jpg",
+        "/img/details/gbjzly4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/gbjzly5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/gbjzly14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "img": "/img/product28.jpg",
+      "label": "",
+      "name": "-Felchlin妃亭12粒装巧克力礼盒",
+      "Science": "德国进口夹心手工巧克力",
+      "ScienceAll": "品牌名称：Felchlin/妃亭<br/>产地: 德国<br/>配料表：白砂糖、可可脂、可可液块、稀奶<br/>储藏方法：请置于14℃-18℃之间 温度≤60%的阴凉干燥<br/>保质期：365 天<br/>食品添加剂：本产品原料中含有乳及其乳制品、大豆及其制品、坚果<br/>系列: 12粒软心巧克力<br/>净含量: 120g<br/>成分含量: 46%<br/>是否为有机食品: 否<br/>巧克力品类: 夹心巧克力<br/>是否含糖: 含糖<br/>是否含有代可可脂: 否<br/>巧克力制作工艺: 手工<br/>形状: 松露型",
+      "promo": "原产地德国进口",
+      "Exp": "巧克力产品不支持7天无理由退货！",
+      "newPrice": "238",
+      "oldPrice": "238",
+      "num": "3327",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Chocolates",
+      "bannerimg": [
+        "/img/details/jtqkl1.jpg",
+        "/img/details/jtqkl2.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/jtqkl3.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl4.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/jtqkl14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "img": "/img/product29.jpg",
+      "label": "",
+      "name": "巧克巧蔻定制16粒装手工夹心巧克力",
+      "Science": "手工夹心巧克力",
+      "ScienceAll": "巧克巧蔻定制品赏16粒装纯可可脂纯手工夹心巧克力礼盒",
+      "promo": "",
+      "Exp": "巧克力产品不支持7天无理由退货！港澳台地区、新疆、西藏、内蒙、青海、甘肃、宁夏等不配送",
+      "newPrice": "288",
+      "oldPrice": "388",
+      "num": "4621",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Chocolates",
+      "bannerimg": [
+        "/img/details/qkqkdz1.jpg",
+        "/img/details/qkqkdz2.jpg",
+        "/img/details/qkqkdz3.jpg",
+        "/img/details/qkqkdz4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/qkqkdz5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/qkqkdz6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/qkqkdz7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/qkqkdz8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "img": "/img/product30.jpg",
+      "label": "",
+      "name": "德国进口LAUENSTEIN巧克力手工松露酒味夹心金装礼盒",
+      "Science": "德国进口酒心黑巧克力20粒",
+      "ScienceAll": "配料：白砂糖，稀奶油，扁桃仁，可可脂，等<br/>包装：盒装<br/>保存：室温超过20摄氏度，建议冷藏保存，避免阳光直射.温度14-18摄氏度，湿度60%以下为最佳<br/>重量：260g/20粒",
+      "Exp": "",
+      "promo": "每个细节都带着温度",
+      "newPrice": "318",
+      "oldPrice": "418",
+      "num": "28",
+      "thisNum": 1,
+      "provide": true,
+      "reduceFlag": false,
+      "dataitem": "Chocolates",
+      "bannerimg": [
+        "/img/details/sgslqkl1.jpg",
+        "/img/details/sgslqkl2.jpg",
+        "/img/details/sgslqkl3.jpg",
+        "/img/details/sgslqkl4.jpg"
+      ],
+      "detailimg": [{
+          "img": "/img/details/sgslqkl5.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl6.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl7.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl8.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl9.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl10.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl11.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl12.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl13.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/sgslqkl14.jpg",
+          "name": "产品详情图"
+        },
+        {
+          "img": "/img/details/public.jpg",
+          "name": "产品详情图"
+        }
+      ]
+    }
+  ]
+
+}
