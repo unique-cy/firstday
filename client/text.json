@@ -508,7 +508,8 @@
       ]
     }
   ],
-  "Elder": [{
+  "Elder": [
+    {
       "id": "9",
       "img": "/img/product9.jpg",
       "name": "母爱",
